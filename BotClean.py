@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# Won 4 Tie 0 Lost 0
 # Head ends here
 def get_dirt_pos(board):
     dirt = []
